@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connor&#39;s Blog</title>
+    <description>Write your site description here. It will be used as your sites meta description as well!</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 31 Oct 2014 13:26:08 -0700</pubDate>
+    <lastBuildDate>Fri, 31 Oct 2014 13:26:08 -0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>First Post</title>
+        <description>&lt;p&gt;Hello&lt;/p&gt;
+</description>
+        <pubDate>Fri, 31 Oct 2014 05:00:00 -0700</pubDate>
+        <link>/2014/10/31/dinosaurs/</link>
+        <guid isPermaLink="true">/2014/10/31/dinosaurs/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
