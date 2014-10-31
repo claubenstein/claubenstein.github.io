@@ -4,9 +4,9 @@ email: your-email@yourdomain.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "http://claubenstein.github.io"
 url: "http://claubenstein.github.io"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: ConnorLaubs
+linkedin_username: pub/connor-laubenstein/77/a/730
+facebook_username: connor.laubenstein
 
 # Build settings
 markdown: kramdown

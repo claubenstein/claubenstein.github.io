@@ -7,4 +7,4 @@ author:     "Connor Laubenstein"
 header-img: "img/post-bg-01.jpg"
 ---
 
-<p>Hello</p>
+<p>Hi all.  This is my first post.  I'll be blogging about all sorts of things.  Like the patriots, and film reviews and everything else I nerd out about.</p>
