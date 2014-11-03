@@ -4,7 +4,7 @@ title:      "The Style of Mr. Burns"
 subtitle:   ""
 date:       2014-11-2 12:00:00
 author:     "Connor Laubenstein"
-header-img: "img/post-bg-02.jpg"
+header-img: "img/burns.jpg"
 ---
 
 <p>Considering other Ken Burns documentaries such as Jazz, or Baseball, his television mini series for PBS, Lewis &amp; Clark: The Journey of the Corps of Discovery is fairly short with a running time of four hours.  Within those four hours, however, Ken Burns trademark style is omnipresent.  Ken Burns’ documentary style is unique enough and canonized enough that now if you open as simple a film editing software as iMovie, you will find the ever sought Ken Burns Effect.  But what about this filmmaker’s style is so intriguing?  This response aims at examining three elements from Ken Burns’ documentary style which are employed in Lewis and Clark.<br><br>
