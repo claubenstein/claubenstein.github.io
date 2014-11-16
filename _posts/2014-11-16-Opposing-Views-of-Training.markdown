@@ -4,7 +4,7 @@ title:      "Opposing Views of Training"
 subtitle:   ""
 date:       2014-11-16 12:00:00
 author:     "Connor Laubenstein"
-header-img: "triumph.jpg"
+header-img: "img/triumph.jpg"
 ---
 
 <p>Leni Riefenstahl's 1935 film, Triumph of the Will sheds light on a pre-war Germany who is still recovering from the crushing blow of World War I.  Hitler had recently risen to power and had established himself as one of the most notable authoritative figures of German history.  While Triumph is certainly propagandistic and we now have historical context regarding what Hitler’s Germany was to become, we can still appreciate the filming quality of Riefenstahl.<br>
