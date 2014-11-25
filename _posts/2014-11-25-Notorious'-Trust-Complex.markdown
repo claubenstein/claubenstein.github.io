@@ -4,7 +4,7 @@ title:      "Notorious' Trust-Complex"
 subtitle:   ""
 date:       2014-11-25 12:00:00
 author:     "Connor Laubenstein"
-header-img: "img/notorious.jpg"
+header-img: "img/notorious.jpeg"
 ---
 
 <p>Alfred Hitchcock’s 1946 film, Notorious harps on many important themes including notoriety, alcohol, and sexual tension.  The most prominent theme in the film, however is trust.  Throughout Notorious, trust is withheld, or given; whether it is duly earned or given unpremeditatedly.  This response will delve into the characters’ responses or reactions to trust.  When Alfred Hitchcock was asked about the themes of the film he responded: “The story of Notorious is the old conflict between love and duty. Cary Grant's job—and it's rather an ironic situation—is to push Ingrid Bergman into Claude Rains's bed. One can hardly blame him for seeming bitter throughout the story, whereas Claude Rains is a rather appealing figure, both because his confidence is being betrayed and because his love for Ingrid Bergman is probably deeper than Cary Grant's. All of these elements of psychological drama have been woven into the spy story.”  This response will deal with the three main characters: T.R. Devlin, Alicia Huberman, and Alexander Sebastian.<br>
