@@ -4,7 +4,7 @@ title:      "Vertov and the Train"
 subtitle:   ""
 date:       2014-12-20 12:00:00
 author:     "Connor Laubenstein"
-header-img: "mwmc.jpg"
+header-img: "img/mwmc.jpg"
 ---
 
 <p>Dziga Vertov’s 1929 documentary Man With The Movie Camera employs significant leaps, in terms of visuality and visual style, from the last film we watched, Nanook of the North.  For a film made in such a technologically strapped era compared to today’s standards, MWTMC, uses some fairly impressive visual techniques in order to get its messages across to the audience.  This response will aim at discussing Vertov’s visual style with specific regards to the theme of trains and train tracks in MWTMC.  Further, concerning the voice of this documentary, I will discuss some of the tactics that Vertov uses in order to portray his argument.<br>
