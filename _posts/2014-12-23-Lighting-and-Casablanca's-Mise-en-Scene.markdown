@@ -4,7 +4,7 @@ title:      "Lighting, and Casablanca's Mise-en-Scene"
 subtitle:   ""
 date:       2014-12-23 12:00:00
 author:     "Connor Laubenstein"
-header-img: "img/casablanca.jpg"
+header-img: "img/rick.jpg"
 ---
 
 <p>Casablanca(1942), with mise-en-scene de Michael Curtiz, reveals many decisions necessary in making a film.  There are many instances throughout the film which pull from the main aspects of mise-en-scene: lighting, staging, costume and makeup, and blocking.  One of the most important aspects of mise-en-scene in Casablanca, however, is the lighting technique.  The specific lighting choices implemented over the course of the film highlight certain undertones, as well as strike up themes.  The most prominent uses of Curtiz’s lighting technique include the use of spotlights inside of and surrounding “Rick’s Cafe Americain”, the use of bright illumination on facial profiles, and contrastly, the use of stark shadows.<br>  
