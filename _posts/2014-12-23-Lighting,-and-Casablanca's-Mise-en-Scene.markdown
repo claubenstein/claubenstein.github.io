@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "Lighting, and Casablanca's Mise-en-Scene"
+subtitle:   ""
+date:       2014-12-23 12:00:00
+author:     "Connor Laubenstein"
+header-img: "img/casablanca.jpg"
+---
+
+<p>Casablanca(1942), with mise-en-scene de Michael Curtiz, reveals many decisions necessary in making a film.  There are many instances throughout the film which pull from the main aspects of mise-en-scene: lighting, staging, costume and makeup, and blocking.  One of the most important aspects of mise-en-scene in Casablanca, however, is the lighting technique.  The specific lighting choices implemented over the course of the film highlight certain undertones, as well as strike up themes.  The most prominent uses of Curtiz’s lighting technique include the use of spotlights inside of and surrounding “Rick’s Cafe Americain”, the use of bright illumination on facial profiles, and contrastly, the use of stark shadows.<br>  
+Michael Curtiz uses intense spotlights outside of “Rick’s Cafe Americain”.  This presents a combination of mise-en-scene; pulling from lighting and staging.  As we know from the film, Rick’s Cafe is located near the airport.  The spotlight that seen highlighting the cafe is from the airport’s control tower.  Michael Curtiz gives the viewers a mashup of mise-en-scene aspects, here.  With the spotlight from the airport control tower seemingly keeping an eye on the customers of Rick’s Cafe, we develop the notion that the cafe; or even Casablanca, for that matter, is a sort of prison.  This notion developed predominantly by the lighting, becomes a theme throughout the film.  As we know from the film, Rick’s Cafe Americain serves as a fun place for adults to go to drink, gamble, and meet new people.  However Rick’s Cafe also has an entrapping feature to it as well.  My point, is that the spotlight from the control tower of the airport supports this feeling of entrapment in the cafe and in Casablanca by constantly circling around, catching people as they leave through the main doors.<br>
+	Further, Curtiz employs the use of intense illumination throughout Casablanca.  Most of the few instances in which illumination on a subject occurs in the film are in times where the characters are enjoying themselves.  These sort of situations are presented to the audience when Rick and Ilsa are in Paris during their romance.  As shown below, the characters are brightly lit, indicating to the viewer that they are in love and enjoying themselves.<br>
+	
+
+"img/carlove.jpg"<br>
+	
+
+	As shown here, Rick and Ilsa are enjoying their romantic time in Paris.  The audience can clearly see both of their faces most likely due to a useage of frontal lighting and side lighting.  Similarly, the 90 degree rule is in effect here, revealing even more of the cast’s faces and expressions of joy.  In fact, Michael Curtiz uses bright illumination for the entire first part of the film, until Ilsa comes into the cast.  This shows the audience how much weight and baggage that Ilsa brings with her.<br>
+	The only oddity that occurs when Ilsa comes regarding the lighting is that her face remains brightly lit.  As shown below, Ilsa’s husband’s face is concealed by shadow.  However, Ilsa’s face is brightly illuminated and her features are clearly visible.  Also, contrary to the picture above, instead of the camera being positioned mostly perpendicular to the subjects, it is cheated screen left, towards Victor’s side.  This exposes Ilsa’s features even more, as well as the use of the rule of thirds making the viewer focus on her gaze offscreen.<br>  
+
+"img/tablemad.jpg"<br>
+
+	This tendency of keeping Ilsa’s face illuminated throughout most of the movie helps affirm my belief that the film, Casablanca is meant to be looked at through Rick’s perspective.  In a world that is now consumed by shadows, Ilsa’s face and character are the only ones that matter to Rick.<br>  
+	As mentioned above, when Ilsa enters Rick’s Cafe Americain, Rick’s world dissolves into shadows.  Where in the beginning of the film the audience could see Rick’s entire face clearly, Ilsa makes a reappearance into his life and not only Rick, but the entire ensemble becomes engulfed in shadow.  The shadows used in the tail end of Casablanca set up a mood consisting of tension and undecidedness that conclude with Rick walking out into the foggy night.  This demonstrates a use of low-key lighting by Michael Curtiz.  “Low-key lighting creates stronger contrasts and sharper, darker shadows.  Often the lighting is hard and fill light is lessened or eliminated altogether.  The effect is chiaroscuro, or extremely dark and light regions within the same image.”(p.129).  This is the effect that Curtiz gives us with a mixture of shadow and illumination put on Rick and Ilsa, respectively.<br>
+	Lighting certainly plays an important role in the thematic approach to Casablanca.  Through the use of the spotlight, illumination, and shadows, Michael Curtiz shapes the feeling of the whole film.</p>
