@@ -12,7 +12,7 @@ Michael Curtiz uses intense spotlights outside of “Rick’s Cafe Americain”.
 	Further, Curtiz employs the use of intense illumination throughout Casablanca.  Most of the few instances in which illumination on a subject occurs in the film are in times where the characters are enjoying themselves.  These sort of situations are presented to the audience when Rick and Ilsa are in Paris during their romance.  As shown below, the characters are brightly lit, indicating to the viewer that they are in love and enjoying themselves.<br>
 	
 
-"img/carlove.jpg"<br>
+<a href="http://www.filmkailm.com/wp-content/gallery/in-casablanca-love-is-a-battlefield/Casablanca-1942-Rick-and-Ilsa-Paris-Affair-02.jpg">Car-Love</a><br>
 	
 
 	As shown here, Rick and Ilsa are enjoying their romantic time in Paris.  The audience can clearly see both of their faces most likely due to a useage of frontal lighting and side lighting.  Similarly, the 90 degree rule is in effect here, revealing even more of the cast’s faces and expressions of joy.  In fact, Michael Curtiz uses bright illumination for the entire first part of the film, until Ilsa comes into the cast.  This shows the audience how much weight and baggage that Ilsa brings with her.<br>
